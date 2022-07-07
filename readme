@@ -1,0 +1,7 @@
+In this project, temperature measurement was made using modbus and usart communication protocol.
+
+IDE: STM32CubeMX , Keil.
+
+HAL library written by ST company is used.
+
+The measured temperature value is converted to degrees Celsius.
